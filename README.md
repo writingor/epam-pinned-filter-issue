@@ -4,7 +4,7 @@
 
 **Problem**: The pinned filter component twitches on scroll, resulting in a jarring user experience.
 
-[Watch the video on YouTube (accessible via the link only)](https://youtu.be/jxBak5TR7Lg)
+📹 [Watch the video on YouTube (accessible via the link only)](https://youtu.be/jxBak5TR7Lg)
 
 **Source**: [EPAM Careers Job Listings](https://www.epam.com/careers/job-listings)
 
