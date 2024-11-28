@@ -20,10 +20,12 @@
 
 This is a demonstration of how the issue can be fixed to ensure a smoother experience:
 
-### Steps to Resolve:
+### NOTE
 
-#### NOTE
-Make sure you allow pasting code into the console to apply the fix.
+1. Make sure you allow pasting code into the console to apply the fix.
+2. It was not tested on small screens, only desktop-based debugging.
+
+### Steps to Resolve:
 
 1. **Open the URL**: Visit [EPAM Job Listings](https://www.epam.com/careers/job-listings) in your browser.
 2. **Open Developer Console**: Use your browser’s developer tools by pressing `F12` or `Ctrl+Shift+I` (Windows/Linux) or `Cmd+Option+I` (Mac).
