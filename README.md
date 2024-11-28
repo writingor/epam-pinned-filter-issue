@@ -4,6 +4,8 @@
 
 **Problem**: The pinned filter component twitches on scroll, resulting in a jarring user experience.
 
+[Watch the video](https://github.com/writingor/epam-pinned-filter-issue/blob/main/static/video/issue-and-solution.webm)
+
 **Source**: [EPAM Careers Job Listings](https://www.epam.com/careers/job-listings)
 
 **Affected Components**:
