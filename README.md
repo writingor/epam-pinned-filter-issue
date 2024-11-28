@@ -10,6 +10,8 @@
 - `.pinned-filter`
 - `.pinned-filter__spacer`
 
+![pinned-filter](https://github.com/writingor/epam-pinned-filter-issue/blob/main/static/img/pinned-filter.png?raw=true)
+
 **When**: This issue occurs when scrolling the page.
 
 ---
